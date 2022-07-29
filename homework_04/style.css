@@ -1,0 +1,60 @@
+.section1 {
+text-align: center;
+margin-bottom: 40px ;
+}
+.image {
+    margin-bottom: 120px;
+    width: 400px;
+
+}
+.search_button {
+    width: 120px;
+    height: 40px;
+    background-color: rgb(26, 26, 253);
+    color: aliceblue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+}
+.search_button:hover {background-color:rgb(80, 80, 255);}
+.search_input{
+    margin-right:10px ;
+    width: 600px;
+    height: 40px;
+    
+}
+.search_wrapper {
+    margin-bottom:10px;
+    display: flex;
+    justify-content: center;  
+}
+.android {
+    width: 120px;
+    height: 30px;
+    background-color: black ;
+    color: aliceblue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+    margin-right:5px;
+
+}
+.apple {
+    width: 120px;
+    height: 30px;
+    background-color: black ;
+    color: aliceblue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+    margin-left:5px;
+}
+.pon {
+    display: flex;
+    justify-content: center;  
+    
+
+}
